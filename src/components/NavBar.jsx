@@ -1,7 +1,7 @@
 // components/Navbar.js
 import React from "react";
 import { NavLink } from "react-router-dom";
-import Cart from "./cart";
+import Cart from "./Cart";
 import ModalCart from "./ModalCart";
 
 const routes = [{ to: "/store", text: "STORE" }];
