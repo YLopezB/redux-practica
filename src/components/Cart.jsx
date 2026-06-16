@@ -19,11 +19,7 @@ export default function Cart() {
         >
           <p>{productsCart.length}</p>
         </div>
-        <img
-          src="./src/assets/cart.png"
-          alt="Shopping cart"
-          className="h-15 w-auto"
-        />
+        <img src="/cart.png" alt="Shopping cart" className="h-15 w-auto" />
       </button>
     </div>
   );
